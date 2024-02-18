@@ -32,7 +32,7 @@ organizations:
 # Feel free to contact me if you are interested in my research or my hobbies.
 
 # Interests to show in About widget
-research interests:
+interests:
   - Resilient Planning of Renewable-dominated Power Systems
   - Uncertainty Modelling and Quantification
   - Machine Learning and Its Applications in Renewable Energy Systems 
