@@ -122,9 +122,9 @@ social:
 highlight_name: true
 ---
 
-I am currently a Ph.D. candidate in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.
-It is my pleasure to be supervised by Dr. Yunhe Hou.
-In my free time, I enjoy reading and bakering.
-BTW, my MBTI is ISFJ (Trying to change it :))
+I am currently a Ph.D. candidate in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.<br>
+It is my pleasure to be supervised by Dr. Yunhe Hou.<br>
+In my free time, I enjoy reading and bakering.<br>
+BTW, my MBTI is ISFJ (Trying to change it :))<br>
 Feel free to contact me if you are interested in my research or my hobbies.
 {style="text-align: justify;"}
