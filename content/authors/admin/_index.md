@@ -34,7 +34,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Resilient Planning of Renewable-dominated Power Systems
-  - Decision-Dependent Uncertainties Modelling and Quantification
+  - Uncertainty Modelling and Quantification
   - Machine Learning and Its Applications in Renewable Energy Systems 
 
 # Education to show in About widget
@@ -123,7 +123,7 @@ highlight_name: true
 ---
 
 I am currently a Ph.D. candidate in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.<br>
-It is my pleasure to be supervised by <a href="https://www.eee.hku.hk/~yhhou/index.htm" style="text-decoration:none; color:inherit;">Dr. Yunhe Hou</a>.<br>
+It is my pleasure to be supervised by <a href="https://www.eee.hku.hk/~yhhou/index.htm" style="text-decoration:none; color:blue;">Dr. Yunhe Hou</a>.<br>
 In my free time, I enjoy reading and bakering.<br>
 BTW, my MBTI is ISFJ (Trying to change it :))<br>
 Feel free to contact me if you are interested in my research or my hobbies.
