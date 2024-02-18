@@ -22,7 +22,7 @@ role: Ph.D. candidate of Electrical and Electronic Engingeering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The University of Hong Kong
-    url: https://www.stanford.edu/
+    url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: I am currently a PhD student in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.
@@ -32,7 +32,7 @@ organizations:
 # Feel free to contact me if you are interested in my research or my hobbies.
 
 # Interests to show in About widget
-interests:
+research interests:
   - Resilient Planning of Renewable-dominated Power Systems
   - Uncertainty Modelling and Quantification
   - Machine Learning and Its Applications in Renewable Energy Systems 
