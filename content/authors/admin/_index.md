@@ -28,7 +28,7 @@ organizations:
 bio: I am currently a PhD student in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.
 It is my pleasure to be supervised by Dr. Yunhe Hou.
 In my free time, I enjoy reading and bakering.
-BTW, my MBTI is ISFJ (Trying to change it :))
+BTW, my MBTI is ISFJ (Trying to change it hhh)
 Feel free to contact me if you are interested in my research or my hobbies.
 
 # Interests to show in About widget
