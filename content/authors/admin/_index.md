@@ -42,10 +42,10 @@ education:
   courses:
     - course: PhD in Electrical and Electronic Engingeering
       institution: The University of Hong Kong
-      year: 2021 
+      year: 2021 - 2025(Expected)
     - course: BSc in Electrical Engingeering and Its Automation
       institution: Wuhan University
-      year: 2016
+      year: 2016 -2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -123,7 +123,7 @@ highlight_name: true
 ---
 
 I am currently a Ph.D. candidate in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.<br>
-It is my pleasure to be supervised by Dr. Yunhe Hou.<br>
+It is my pleasure to be supervised by <a href="https://www.eee.hku.hk/~yhhou/index.htm" style="text-decoration:none; color:inherit;">Dr. Yunhe Hou</a>.<br>
 In my free time, I enjoy reading and bakering.<br>
 BTW, my MBTI is ISFJ (Trying to change it :))<br>
 Feel free to contact me if you are interested in my research or my hobbies.
