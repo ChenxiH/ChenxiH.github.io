@@ -52,36 +52,36 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+      - name: Optimization
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Machine Learning
         description: ''
-        percent: 40
+        percent: 80
         icon: database
+        icon_pack: fab
+      - name: Python / Julia
+        description: ''
+        percent: 80
+        icon: python
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
+        percent: 70
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Bakering
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Workout
         description: ''
         percent: 80
         icon: camera-retro
@@ -94,34 +94,35 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'cxhu@eee.hku.hk'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=enzOZCUAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
+  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Chenxi_Hu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am currently a PhD student in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.
+I am currently a Ph.D. candidate in Department of Electrical and Electronic Engineering, The University of Hong Kong, starting 2021.
 It is my pleasure to be supervised by Dr. Yunhe Hou.
 In my free time, I enjoy reading and bakering.
 BTW, my MBTI is ISFJ (Trying to change it :))
