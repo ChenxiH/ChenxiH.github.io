@@ -4,8 +4,8 @@ authors:
 - Chenxi Hu
 - Yujia Li
 - Yunhe Hou
-date: '2025-08-15'
-publishDate: '2025-08-15T04:06:57.634059Z'
+date: '2025-03-15'
+publishDate: '2025-03-15T04:06:57.634059Z'
 publication_types:
 - article-journal
 publication: '*Applied Energy*'
