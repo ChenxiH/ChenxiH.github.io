@@ -1,16 +1,17 @@
 ---
-title: 'Risk-informed resilience planning of transmission systems against ice storms'
+title: 'Cyber resilience of power electronics-enabled power systems: A review'
 authors: 
+- Jiazuo Hou
 - Chenxi Hu
-- Yujia Li
+- Shunbo Lei
 - Yunhe Hou
-date: '2025-08-15'
-publishDate: '2025-08-15T04:06:57.634059Z'
+date: '2024-01-15'
+publishDate: '2024-01-15T04:06:57.634059Z'
 publication_types:
 - article-journal
-publication: '*Applied Energy*'
-doi: 10.1016/j.apenergy.2025.125801
+publication: '*Renewable and Sustainable Energy Reviews*'
+doi: 10.1016/j.rser.2023.114036
 links:
 - name: URL
-  url: https://doi.org/10.1016/j.apenergy.2025.125801
+  url: https://doi.org/10.1016/j.rser.2023.114036
 ---
